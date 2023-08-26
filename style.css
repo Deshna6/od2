@@ -1,0 +1,18 @@
+#heading
+{
+   
+    color: black;
+    font-size: 35px;
+    padding: 10px;
+    margin: 10px;
+    font-weight: 700px;
+}
+a
+{
+    font-size: 20px;
+    background-color: white;
+    color: black;
+    height: 21px;
+    width: 70%;
+}
+
